@@ -1,2 +1,1 @@
-# TinDog
-meet dogs near you
+TinDog Starting Files
